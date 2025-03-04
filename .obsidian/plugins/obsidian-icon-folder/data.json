@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiInfo",
+      "LiSettings2",
+      "LiAlbum",
+      "LiGamepad2",
+      "LiHome"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "08 Settings": "LiBadgeAlert",
+  "01 Chapters": "LiBookText",
+  "02 Characters": "LiMeh",
+  "03 World Knowledge": "LiHaze",
+  "00 Info": "LiHome",
+  "04 Game Engine": "LiGamepad2",
+  "02 Sem2": "LiAlbum",
+  "03 Settings": "LiSettings2",
+  "01 Info": "LiInfo"
+}

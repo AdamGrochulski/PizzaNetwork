@@ -1,0 +1,14 @@
+{
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Catppuccin",
+  "accentColor": "",
+  "showRibbon": false
+}
