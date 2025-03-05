@@ -4,11 +4,12 @@
 </p>
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/pizza_party-AE86EB?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/pizza_party-AE86EB?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/pizza_party-AE86EB?style=for-the-badge">
- 
+  <img alt="Static Badge" src="https://img.shields.io/badge/pizza_network-AE86EB?style=for-the-badge">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/AdamGrochulski/PizzaNetwork?include_prereleases&sort=date&display_name=release&style=for-the-badge&color=AE86EB">
+  <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/AdamGrochulski/PizzaNetwork/total?style=for-the-badge&color=AE86EB">
 </p>
+
+## Download
 
 
 ## Autorzy
