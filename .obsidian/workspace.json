@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 1.pdf"
+                "file": "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "MPIS Wykład 1"
+              "title": "TOIS Wykład 2"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "excel:Create Excel File": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
@@ -191,34 +192,35 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 2.pdf",
-    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 1.pdf",
-    "02 Sem2/Języki i metody programowania/JIMP Wykład 2.md",
-    "02 Sem2/Języki i metody programowania/JIMP Projekt.md",
-    "02 Sem2/Języki i metody programowania/JIMP Wykład 1.md",
-    "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 1.pdf",
-    "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 1.pdf",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 2.pdf",
     "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 1.pdf",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenie 1.pdf",
+    "02 Sem2/Teoria obwodów i sygnałów/TOIS Cwiczenia 2.pdf",
+    "02 Sem2/Teoria obwodów i sygnałów/TOIS Cwiczenia 1.pdf",
+    "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 2.pdf",
+    "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 1.pdf",
     "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 2.pdf",
+    "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 1.pdf",
+    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 2.pdf",
     "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 1.pdf",
-    "02 Sem2/Grafika inżynierska/GI Wykład 2.md",
+    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 1.pdf",
+    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 2.pdf",
+    "02 Sem2/Języki i metody programowania/JIMP Wykład 2.md",
+    "02 Sem2/Języki i metody programowania/JIMP Wykład 1.md",
+    "02 Sem2/Języki i metody programowania/JIMP Projekt.md",
     "02 Sem2/Grafika inżynierska/GI Wykład 1.md",
-    "02 Sem2/Bazy danych/BD Wykład 2.md",
+    "02 Sem2/Grafika inżynierska/GI Wykład 2.md",
+    "08 Settings/Links/Grafika inżynierska.md",
+    "01 Info/Spis treści.md",
     "02 Sem2/Bazy danych/BD Wykład 1.md",
+    "08 Settings/Links/Bazy danych.md",
+    "08 Settings/Links/Teoria obwodów i sygnałów.md",
+    "02 Sem2/Bazy danych/BD Wykład 2.md",
     "02 Sem2/Bazy danych/Excel/BD Excel 2.md",
     "08 Settings/File Graphics/bd_excel_2.png",
     "08 Settings/File Graphics/bd_excel_1.png",
-    "08 Settings/File Graphics",
-    "01 Info/Spis treści.md",
-    "08 Settings/Links/Teoria obwodów i sygnałów.md",
     "08 Settings/Links/Podstawy teorii mnogości i matematyki dyskretnej.md",
     "08 Settings/Links/Podstawy inżynierii oprogramowania.md",
     "08 Settings/Links/Metody probabilistyczne i statystyka.md",
     "08 Settings/Links/Języki i metody programowania.md",
-    "08 Settings/Links/Grafika inżynierska.md",
-    "08 Settings/Links/Bazy danych.md",
     "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 1.md",
     "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 1.md",
     "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 2.md",

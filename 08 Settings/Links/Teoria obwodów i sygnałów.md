@@ -3,7 +3,8 @@ Wykłady:
 - [[TOIS Wykład 2.pdf]]
 
 Ćwiczenia:
-- [[TOIS Ćwiczenie 1.pdf]]
+- [[TOIS Cwiczenia 1.pdf]]
+- [[TOIS Cwiczenia 2.pdf]]
 
 Podręczniki:
 - [[Filipowicz.pdf]]
