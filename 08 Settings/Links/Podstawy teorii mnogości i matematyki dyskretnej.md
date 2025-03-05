@@ -3,5 +3,6 @@ Wykłady:
 - [[PTMIMD Wykład 2.pdf]]
 
 Ćwiczenia:
+- [[PTMIMD Cwiczenia 1.pdf]]
 
 Back -> [[Spis treści]]

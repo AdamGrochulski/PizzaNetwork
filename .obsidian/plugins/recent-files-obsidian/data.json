@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Spis treści",
+      "path": "01 Info/Spis treści.md"
+    },
+    {
+      "basename": "Teoria obwodów i sygnałów",
+      "path": "08 Settings/Links/Teoria obwodów i sygnałów.md"
+    },
+    {
+      "basename": "Podstawy teorii mnogości i matematyki dyskretnej",
+      "path": "08 Settings/Links/Podstawy teorii mnogości i matematyki dyskretnej.md"
+    },
+    {
+      "basename": "Podstawy inżynierii oprogramowania",
+      "path": "08 Settings/Links/Podstawy inżynierii oprogramowania.md"
+    },
+    {
+      "basename": "Metody probabilistyczne i statystyka",
+      "path": "08 Settings/Links/Metody probabilistyczne i statystyka.md"
+    },
+    {
+      "basename": "Języki i metody programowania",
+      "path": "08 Settings/Links/Języki i metody programowania.md"
+    },
+    {
+      "basename": "Grafika inżynierska",
+      "path": "08 Settings/Links/Grafika inżynierska.md"
+    },
+    {
+      "basename": "Bazy danych",
+      "path": "08 Settings/Links/Bazy danych.md"
+    },
+    {
+      "basename": "ISOD",
+      "path": "08 Settings/System Graphics/ISOD.png"
+    },
+    {
+      "basename": "bd_excel_2",
+      "path": "08 Settings/File Graphics/bd_excel_2.png"
+    },
+    {
+      "basename": "bd_excel_1",
+      "path": "08 Settings/File Graphics/bd_excel_1.png"
+    },
+    {
+      "basename": "PTMIMD Wykład 2",
+      "path": "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 2.pdf"
+    },
+    {
+      "basename": "JIMP Wykład 2",
+      "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 2.md"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 2",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 2.pdf"
+    },
+    {
+      "basename": "TOIS Cwiczenia 2",
+      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Cwiczenia 2.pdf"
+    },
+    {
+      "basename": "Filipowicz",
+      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Podręczniki/Filipowicz.pdf"
+    },
+    {
       "basename": "TOIS Wykład 2",
       "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 2.pdf"
     },
@@ -9,16 +73,8 @@
       "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 1.pdf"
     },
     {
-      "basename": "TOIS Cwiczenia 2",
-      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Cwiczenia 2.pdf"
-    },
-    {
       "basename": "TOIS Cwiczenia 1",
       "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Cwiczenia 1.pdf"
-    },
-    {
-      "basename": "PTMIMD Wykład 2",
-      "path": "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 2.pdf"
     },
     {
       "basename": "PTMIMD Wykład 1",
@@ -45,14 +101,6 @@
       "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 1.pdf"
     },
     {
-      "basename": "MPIS Ćwiczenia 2",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 2.pdf"
-    },
-    {
-      "basename": "JIMP Wykład 2",
-      "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 2.md"
-    },
-    {
       "basename": "JIMP Wykład 1",
       "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 1.md"
     },
@@ -69,32 +117,8 @@
       "path": "02 Sem2/Grafika inżynierska/GI Wykład 2.md"
     },
     {
-      "basename": "Grafika inżynierska",
-      "path": "08 Settings/Links/Grafika inżynierska.md"
-    },
-    {
-      "basename": "Spis treści",
-      "path": "01 Info/Spis treści.md"
-    },
-    {
       "basename": "BD Wykład 1",
       "path": "02 Sem2/Bazy danych/BD Wykład 1.md"
-    },
-    {
-      "basename": "Bazy danych",
-      "path": "08 Settings/Links/Bazy danych.md"
-    },
-    {
-      "basename": "Metody probabilistyczne i statystyka",
-      "path": "08 Settings/Links/Metody probabilistyczne i statystyka.md"
-    },
-    {
-      "basename": "Teoria obwodów i sygnałów",
-      "path": "08 Settings/Links/Teoria obwodów i sygnałów.md"
-    },
-    {
-      "basename": "Podstawy teorii mnogości i matematyki dyskretnej",
-      "path": "08 Settings/Links/Podstawy teorii mnogości i matematyki dyskretnej.md"
     },
     {
       "basename": "Osowski",
@@ -109,32 +133,12 @@
       "path": "02 Sem2/Bazy danych/Excel/BD Excel 2.md"
     },
     {
-      "basename": "bd_excel_1",
-      "path": "08 Settings/File Graphics/bd_excel_1.png"
-    },
-    {
-      "basename": "bd_excel_2",
-      "path": "08 Settings/File Graphics/bd_excel_2.png"
-    },
-    {
-      "basename": "Języki i metody programowania",
-      "path": "08 Settings/Links/Języki i metody programowania.md"
-    },
-    {
       "basename": "Teoria obwodów 1",
       "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Podręczniki/Teoria obwodów 1.pdf"
     },
     {
       "basename": "Teoria obwodów 2",
       "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Podręczniki/Teoria obwodów 2.pdf"
-    },
-    {
-      "basename": "Podstawy inżynierii oprogramowania",
-      "path": "08 Settings/Links/Podstawy inżynierii oprogramowania.md"
-    },
-    {
-      "basename": "Filipowicz",
-      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Podręczniki/Filipowicz.pdf"
     }
   ],
   "omittedPaths": [],
