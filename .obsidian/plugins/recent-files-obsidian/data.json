@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Metody probabilistyczne i statystyka",
+      "path": "08 Settings/Links/Metody probabilistyczne i statystyka.md"
+    },
+    {
       "basename": "Spis treści",
       "path": "01 Info/Spis treści.md"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 3",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 3.pdf"
+    },
+    {
+      "basename": "PIO Wykład 2",
+      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 2.pdf"
+    },
+    {
+      "basename": "PIO Wykład 3",
+      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 3.pdf"
+    },
+    {
+      "basename": "PIO Wykład 1",
+      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 1.pdf"
+    },
+    {
+      "basename": "MPIS Wykład 2",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 2.pdf"
+    },
+    {
+      "basename": "MPIS Wykład 1",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 1.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 2",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 2.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 1",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 1.pdf"
+    },
+    {
+      "basename": "JIMP Wykład 3",
+      "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 3.md"
+    },
+    {
+      "basename": "JIMP Projekt",
+      "path": "02 Sem2/Języki i metody programowania/JIMP Projekt.md"
+    },
+    {
+      "basename": "JIMP Wykład 1",
+      "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 1.md"
+    },
+    {
+      "basename": "GI Wykład 2",
+      "path": "02 Sem2/Grafika inżynierska/GI Wykład 2.md"
+    },
+    {
+      "basename": "GI Wykład 1",
+      "path": "02 Sem2/Grafika inżynierska/GI Wykład 1.md"
+    },
+    {
+      "basename": "BD Wykład 1",
+      "path": "02 Sem2/Bazy danych/BD Wykład 1.md"
+    },
+    {
+      "basename": "BD Wykład 3",
+      "path": "02 Sem2/Bazy danych/BD Wykład 3.md"
+    },
+    {
+      "basename": "Bazy danych",
+      "path": "08 Settings/Links/Bazy danych.md"
     },
     {
       "basename": "Teoria obwodów i sygnałów",
@@ -17,20 +85,12 @@
       "path": "08 Settings/Links/Podstawy inżynierii oprogramowania.md"
     },
     {
-      "basename": "Metody probabilistyczne i statystyka",
-      "path": "08 Settings/Links/Metody probabilistyczne i statystyka.md"
-    },
-    {
       "basename": "Języki i metody programowania",
       "path": "08 Settings/Links/Języki i metody programowania.md"
     },
     {
       "basename": "Grafika inżynierska",
       "path": "08 Settings/Links/Grafika inżynierska.md"
-    },
-    {
-      "basename": "Bazy danych",
-      "path": "08 Settings/Links/Bazy danych.md"
     },
     {
       "basename": "ISOD",
@@ -51,10 +111,6 @@
     {
       "basename": "JIMP Wykład 2",
       "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 2.md"
-    },
-    {
-      "basename": "MPIS Ćwiczenia 2",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 2.pdf"
     },
     {
       "basename": "TOIS Cwiczenia 2",
@@ -79,46 +135,6 @@
     {
       "basename": "PTMIMD Wykład 1",
       "path": "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 1.pdf"
-    },
-    {
-      "basename": "PIO Wykład 2",
-      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 2.pdf"
-    },
-    {
-      "basename": "PIO Wykład 1",
-      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 1.pdf"
-    },
-    {
-      "basename": "MPIS Wykład 2",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 2.pdf"
-    },
-    {
-      "basename": "MPIS Wykład 1",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 1.pdf"
-    },
-    {
-      "basename": "MPIS Ćwiczenia 1",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 1.pdf"
-    },
-    {
-      "basename": "JIMP Wykład 1",
-      "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 1.md"
-    },
-    {
-      "basename": "JIMP Projekt",
-      "path": "02 Sem2/Języki i metody programowania/JIMP Projekt.md"
-    },
-    {
-      "basename": "GI Wykład 1",
-      "path": "02 Sem2/Grafika inżynierska/GI Wykład 1.md"
-    },
-    {
-      "basename": "GI Wykład 2",
-      "path": "02 Sem2/Grafika inżynierska/GI Wykład 2.md"
-    },
-    {
-      "basename": "BD Wykład 1",
-      "path": "02 Sem2/Bazy danych/BD Wykład 1.md"
     },
     {
       "basename": "Osowski",

@@ -1,10 +1,12 @@
 Wykłady:
 - [[TOIS Wykład 1.pdf]]
 - [[TOIS Wykład 2.pdf]]
+- [[TOIS Wykład 3.pdf]]
 
 Ćwiczenia:
 - [[TOIS Cwiczenia 1.pdf]]
 - [[TOIS Cwiczenia 2.pdf]]
+- [[TOIS Ćwiczenia 3.pdf]]
 
 Podręczniki:
 - [[Filipowicz.pdf]]
