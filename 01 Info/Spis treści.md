@@ -1,7 +1,5 @@
 Witam w bazie danych Pizza Party :)
 
-Graph: 
-
 Spis treści:
 - [[Bazy danych]]
 - [[Grafika inżynierska]]
