@@ -4,6 +4,7 @@ Wykłady:
 - [[PTMIMD Wykład 3.pdf]]
 - [[PTMIMD Wykład 4.pdf]]
 - [[PTMIMD Wykład 5.pdf]]
+- [[PTMIMD Wykład 12.pdf]]
 
 Ćwiczenia:
 - [[PTMIMD Ćwiczenia 1.pdf]]

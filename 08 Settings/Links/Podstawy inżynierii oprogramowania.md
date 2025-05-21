@@ -6,5 +6,7 @@ Wykłady:
 - [[PIO Wykład 5.pdf]]
 - [[PIO Wykład 6.pdf]]
 - [[PIO Wykład 7.pdf]]
+- [[PIO Wykład 10.pdf]]
+- - [[PIO Wykład 11.pdf]]
 
 Back -> [[Spis treści]]

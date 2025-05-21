@@ -6,6 +6,11 @@ Wykłady:
 - [[MPIS Wykład 5.pdf]]
 - [[MPIS Wykład 6.pdf]]
 - [[MPIS Wykład 7.pdf]]
+- [[MPIS Wykład 8.pdf]]
+- [[MPIS Wykład 9.pdf]]
+- [[MPIS Wykład 10.pdf]]
+- [[MPIS Wykład 11.pdf]]
+- [[MPIS Wykład 12.pdf]]
 
 Ćwiczenia:
 - [[MPIS Ćwiczenia 1.pdf]]
@@ -15,5 +20,10 @@ Wykłady:
 - [[MPIS Ćwiczenia 5.pdf]]
 - [[MPIS Ćwiczenia 6.pdf]]
 - [[MPIS Ćwiczenia 7.pdf]]
+- [[MPIS Ćwiczenia 8.pdf]]
+- [[MPIS Ćwiczenia 9.pdf]]
+- [[MPIS Ćwiczenia 10.pdf]]
+- [[MPIS Ćwiczenia 11.pdf]]
+- [[MPIS Ćwiczenia 12.pdf]]
 
 Back -> [[Spis treści]]

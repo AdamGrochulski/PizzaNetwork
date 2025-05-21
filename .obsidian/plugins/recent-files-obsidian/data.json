@@ -5,40 +5,136 @@
       "path": "01 Info/Spis treści.md"
     },
     {
+      "basename": "Teoria obwodów i sygnałów",
+      "path": "08 Settings/Links/Teoria obwodów i sygnałów.md"
+    },
+    {
+      "basename": "TOIS Wykład 8",
+      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 8.pdf"
+    },
+    {
+      "basename": "TOIS Ćwiczenia 7",
+      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenia 7.pdf"
+    },
+    {
       "basename": "Metody probabilistyczne i statystyka",
       "path": "08 Settings/Links/Metody probabilistyczne i statystyka.md"
     },
     {
-      "basename": "MPIS Ćwiczenia 7",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 7.pdf"
+      "basename": "MPIS Wykład 12",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 12.pdf"
     },
     {
-      "basename": "MPIS Ćwiczenia 6",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 6.pdf"
+      "basename": "MPIS Wykład 11",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 11.pdf"
     },
     {
-      "basename": "MPIS Ćwiczenia 4",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 4.pdf"
+      "basename": "MPIS Ćwiczenia 12",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 12.pdf"
     },
     {
-      "basename": "Podstawy inżynierii oprogramowania",
-      "path": "08 Settings/Links/Podstawy inżynierii oprogramowania.md"
+      "basename": "MPIS Wykład 10",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 10.pdf"
     },
     {
-      "basename": "Teoria obwodów i sygnałów",
-      "path": "08 Settings/Links/Teoria obwodów i sygnałów.md"
+      "basename": "MPIS Ćwiczenia 11",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 11.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 9",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 9.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 8",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 8.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 10",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 10.pdf"
     },
     {
       "basename": "Podstawy teorii mnogości i matematyki dyskretnej",
       "path": "08 Settings/Links/Podstawy teorii mnogości i matematyki dyskretnej.md"
     },
     {
-      "basename": "Bazy danych",
-      "path": "08 Settings/Links/Bazy danych.md"
+      "basename": "PIO Wykład 10",
+      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 10.pdf"
     },
     {
-      "basename": "TOIS Ćwiczenia 7",
-      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenia 7.pdf"
+      "basename": "Podstawy inżynierii oprogramowania",
+      "path": "08 Settings/Links/Podstawy inżynierii oprogramowania.md"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 4",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 4.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 6",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 6.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 7",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 7.pdf"
+    },
+    {
+      "basename": "Filipowicz",
+      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Podręczniki/Filipowicz.pdf"
+    },
+    {
+      "basename": "MPIS Wykład 6",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 6.pdf"
+    },
+    {
+      "basename": "MPIS Wykład 5",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 5.pdf"
+    },
+    {
+      "basename": "MPIS Wykład 4",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 4.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 5",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 5.pdf"
+    },
+    {
+      "basename": "MPIS Wykład 3",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 3.pdf"
+    },
+    {
+      "basename": "MPIS Wykład 2",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 2.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 3",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 3.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 2",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 2.pdf"
+    },
+    {
+      "basename": "MPIS Wykład 1",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 1.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 1",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 1.pdf"
+    },
+    {
+      "basename": "PIO Wykład 3",
+      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 3.pdf"
+    },
+    {
+      "basename": "PIO Wykład 2",
+      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 2.pdf"
+    },
+    {
+      "basename": "PIO Wykład 1",
+      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 1.pdf"
+    },
+    {
+      "basename": "Bazy danych",
+      "path": "08 Settings/Links/Bazy danych.md"
     },
     {
       "basename": "TOIS Ćwiczenia 6",
@@ -57,22 +153,6 @@
       "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenia 1.pdf"
     },
     {
-      "basename": "MPIS Wykład 6",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 6.pdf"
-    },
-    {
-      "basename": "MPIS Ćwiczenia 2",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 2.pdf"
-    },
-    {
-      "basename": "MPIS Wykład 1",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 1.pdf"
-    },
-    {
-      "basename": "MPIS Ćwiczenia 3",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 3.pdf"
-    },
-    {
       "basename": "JIMP Wykład 5",
       "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 5.md"
     },
@@ -83,18 +163,6 @@
     {
       "basename": "TOIS Ćwiczenia 3",
       "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenia 3.pdf"
-    },
-    {
-      "basename": "MPIS Ćwiczenia 1",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 1.pdf"
-    },
-    {
-      "basename": "MPIS Ćwiczenia 5",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 5.pdf"
-    },
-    {
-      "basename": "Filipowicz",
-      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Podręczniki/Filipowicz.pdf"
     },
     {
       "basename": "TOIS Ćwiczenia 5",
@@ -131,70 +199,6 @@
     {
       "basename": "Grafika inżynierska",
       "path": "08 Settings/Links/Grafika inżynierska.md"
-    },
-    {
-      "basename": "PTMIMD Wykład 3",
-      "path": "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 3.pdf"
-    },
-    {
-      "basename": "PTMIMD Wykład 1",
-      "path": "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 1.pdf"
-    },
-    {
-      "basename": "PTMIMD Ćwiczenia 1",
-      "path": "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Ćwiczenia 1.pdf"
-    },
-    {
-      "basename": "JIMP Wykład 2",
-      "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 2.md"
-    },
-    {
-      "basename": "JIMP Wykład 1",
-      "path": "02 Sem2/Języki i metody programowania/JIMP Wykład 1.md"
-    },
-    {
-      "basename": "TOIS Wykład 4",
-      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 4.pdf"
-    },
-    {
-      "basename": "MPIS Wykład 3",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 3.pdf"
-    },
-    {
-      "basename": "TOIS Wykład 2",
-      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 2.pdf"
-    },
-    {
-      "basename": "TOIS Wykład 3",
-      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 3.pdf"
-    },
-    {
-      "basename": "PTMIMD Wykład 2",
-      "path": "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 2.pdf"
-    },
-    {
-      "basename": "PIO Wykład 3",
-      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 3.pdf"
-    },
-    {
-      "basename": "PIO Wykład 1",
-      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 1.pdf"
-    },
-    {
-      "basename": "PIO Wykład 2",
-      "path": "02 Sem2/Podstawy inżynierii oprogramowania/PIO Wykład 2.pdf"
-    },
-    {
-      "basename": "TOIS Wykład 1",
-      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 1.pdf"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "MPIS Wykład 2",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 2.pdf"
     }
   ],
   "omittedPaths": [],

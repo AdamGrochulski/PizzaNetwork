@@ -7,6 +7,8 @@ Wykłady:
 - [[TOIS Wykład 6.pdf]]
 - [[TOIS Wykład 7.pdf]]
 - [[TOIS Wykład 8.pdf]]
+- [[TOIS Wykład 9.pdf]]
+- [[TOIS Wykład 10.pdf]]
 
 Ćwiczenia:
 - [[TOIS Ćwiczenia 1.pdf]]
@@ -16,6 +18,9 @@ Wykłady:
 - [[TOIS Ćwiczenia 5.pdf]]
 - [[TOIS Ćwiczenia 6.pdf]]
 - [[TOIS Ćwiczenia 7.pdf]]
+- [[TOIS Ćwiczenia 8.pdf]]
+- [[TOIS Ćwiczenia 10.pdf]]
+- [[TOIS Ćwiczenia 11.pdf]]
 
 Podręczniki:
 - [[Filipowicz.pdf]]
