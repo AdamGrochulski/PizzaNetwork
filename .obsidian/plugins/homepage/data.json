@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "01 Info/Spis treści",
+      "value": "00 Info/00 Start",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

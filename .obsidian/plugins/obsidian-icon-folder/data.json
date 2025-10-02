@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmClockMinus",
+      "LiActivity",
       "LiInfo",
       "LiSettings2",
-      "LiAlbum",
-      "LiGamepad2",
-      "LiHome"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,9 +38,10 @@
   "01 Chapters": "LiBookText",
   "02 Characters": "LiMeh",
   "03 World Knowledge": "LiHaze",
-  "00 Info": "LiHome",
+  "00 Info": "LiInfo",
   "04 Game Engine": "LiGamepad2",
   "02 Sem2": "LiAlbum",
   "03 Settings": "LiSettings2",
-  "01 Info": "LiInfo"
+  "01 Sem1": "LiActivity",
+  "03 Sem3": "LiAlarmClockMinus"
 }

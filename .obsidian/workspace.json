@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Info/Spis treści.md",
+                "file": "00 Info/03 Semestr 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spis treści"
+              "title": "03 Semestr 3"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -165,8 +165,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -178,59 +178,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "excel:Create Excel File": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "90ab312c47743390",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 Info/Spis treści.md",
-    "08 Settings/Links/Teoria obwodów i sygnałów.md",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 8.pdf",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenia 11.pdf",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenia 10.pdf",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 10.pdf",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Wykład 9.pdf",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenia 8.pdf",
-    "02 Sem2/Teoria obwodów i sygnałów/TOIS Ćwiczenia 7.pdf",
-    "08 Settings/Links/Metody probabilistyczne i statystyka.md",
-    "MPIS C.md",
-    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 12.pdf",
-    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 11.pdf",
-    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 12.pdf",
-    "08 Settings/Links/Podstawy teorii mnogości i matematyki dyskretnej.md",
-    "08 Settings/Links/Podstawy inżynierii oprogramowania.md",
-    "08 Settings/Links/Bazy danych.md",
-    "02 Sem2/Języki i metody programowania/JIMP Wykład 3.md",
-    "08 Settings/Links/Języki i metody programowania.md",
-    "02 Sem2/Języki i metody programowania/JIMP Wykład 5.md",
-    "02 Sem2/Języki i metody programowania/JIMP Wykład 4.md",
-    "08 Settings/Links/Grafika inżynierska.md",
-    "02 Sem2/Grafika inżynierska/GI Wykład 2.md",
-    "02 Sem2/Grafika inżynierska/GI Wykład 1.md",
-    "02 Sem2/Bazy danych/Excel/BD Excel 2.md",
-    "08 Settings/File Graphics/bd_excel_1.png",
-    "02 Sem2/Bazy danych/BD Wykład 3.md",
-    "02 Sem2/Bazy danych/BD Wykład 2.md",
-    "02 Sem2/Bazy danych/BD Wykład 1.md",
-    "02 Sem2/Języki i metody programowania/JIMP Wykład 2.md",
-    "02 Sem2/Języki i metody programowania/JIMP Wykład 1.md",
-    "02 Sem2/Języki i metody programowania/JIMP Projekt.md",
+    "00 Info/01 Semestr 1.md",
+    "00 Info/00 Start.md",
+    "08 Settings/Links/Sem3/Język japoński A1.md",
+    "00 Info/03 Semestr 3.md",
+    "00 Info/02 Semestr 2.md",
+    "08 Settings/Links/Sem1/Algebra liniowa.md",
+    "08 Settings/Links/Sem1/Zarządzanie projektami IT.md",
+    "08 Settings/Links/Sem1/Analiza matematyczna.md",
+    "00 Info/03 Semestr 3(1).md",
+    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 12.pdf",
+    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 9.pdf",
+    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 8.pdf",
+    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 5.pdf",
+    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 4.pdf",
+    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 2.pdf",
+    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 3.pdf",
+    "01 Sem1/Algebra liniowa/AL Zaliczenie.pdf",
+    "01 Sem1/Algebra liniowa/AL Ćwiczenia 3.pdf",
+    "01 Sem1/Algebra liniowa/AL Wykład 4.pdf",
+    "08 Settings/Links/Sem2/Bazy danych.md",
+    "08 Settings/Links/Sem2/Języki i metody programowania 2.md",
+    "01 Sem1/Untitled.md",
+    "08 Settings/Links/Sem3/Technika mikroprocesorowa.md",
+    "08 Settings/Links/Sem3/Technika cyfrowa.md",
+    "08 Settings/Links/Sem3/Programowanie obiektowe.md",
+    "08 Settings/Links/Sem3/Podstawy reprezentacji i analizy danych.md",
+    "08 Settings/Links/Sem3/Fizyczne podstawy elektrotechniki i elektroniki.md",
+    "08 Settings/Links/Sem3/Architektura systemów komputerowych.md",
+    "08 Settings/Links/Sem3/Algorytmy i struktury danych.md",
+    "08 Settings/Links/Sem2/Teoria obwodów i sygnałów.md",
+    "08 Settings/Links/Sem2/Podstawy teorii mnogości i matematyki dyskretnej.md",
+    "08 Settings/Links/Sem2/Podstawy inżynierii oprogramowania.md",
+    "08 Settings/Links/Sem2/Metody probabilistyczne i statystyka.md",
+    "08 Settings/Links/Sem2/Grafika inżynierska.md",
+    "00 Info/02 Semestr 2 1.md",
+    "08 Settings/Links/Sem3/Untitled 1.md",
     "08 Settings/System Graphics/ISOD.png",
-    "08 Settings/File Graphics/bd_excel_2.png",
-    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Wykład 1.md",
-    "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 1.md",
-    "02 Sem2/Podstawy teorii mnogości i matematyki dyskretnej/PTMIMD Wykład 2.md",
-    "PIO Wykład 1.md"
+    "08 Settings/File Graphics/bd_excel_1.png",
+    "08 Settings/File Graphics/bd_excel_2.png"
   ]
 }
