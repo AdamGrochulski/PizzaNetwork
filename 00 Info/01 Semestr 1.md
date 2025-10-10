@@ -1,6 +1,6 @@
 Dobre początki, tęsknie za tymi czasami :(
 
-Spis treści Sem2:
+Spis treści Sem1:
 - [[Algebra liniowa]]
 - [[Analiza matematyczna]]
 - [[Zarządzanie projektami IT]]

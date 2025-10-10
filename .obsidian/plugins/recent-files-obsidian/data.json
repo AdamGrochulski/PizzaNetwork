@@ -5,180 +5,8 @@
       "path": "00 Info/03 Semestr 3.md"
     },
     {
-      "basename": "01 Semestr 1",
-      "path": "00 Info/01 Semestr 1.md"
-    },
-    {
-      "basename": "00 Start",
-      "path": "00 Info/00 Start.md"
-    },
-    {
-      "basename": "Język japoński A1",
-      "path": "08 Settings/Links/Sem3/Język japoński A1.md"
-    },
-    {
-      "basename": "02 Semestr 2",
-      "path": "00 Info/02 Semestr 2.md"
-    },
-    {
-      "basename": "Algebra liniowa",
-      "path": "08 Settings/Links/Sem1/Algebra liniowa.md"
-    },
-    {
-      "basename": "Zarządzanie projektami IT",
-      "path": "08 Settings/Links/Sem1/Zarządzanie projektami IT.md"
-    },
-    {
-      "basename": "Analiza matematyczna",
-      "path": "08 Settings/Links/Sem1/Analiza matematyczna.md"
-    },
-    {
-      "basename": "ZPIT Wykład 12",
-      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 12.pdf"
-    },
-    {
-      "basename": "ZPIT Wykład 9",
-      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 9.pdf"
-    },
-    {
-      "basename": "ZPIT Wykład 8",
-      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 8.pdf"
-    },
-    {
-      "basename": "ZPIT Wykład 5",
-      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 5.pdf"
-    },
-    {
-      "basename": "ZPIT Wykład 4",
-      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 4.pdf"
-    },
-    {
-      "basename": "ZPIT Wykład 2",
-      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 2.pdf"
-    },
-    {
-      "basename": "ZPIT Wykład 3",
-      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 3.pdf"
-    },
-    {
-      "basename": "AL Zaliczenie",
-      "path": "01 Sem1/Algebra liniowa/AL Zaliczenie.pdf"
-    },
-    {
-      "basename": "AL Ćwiczenia 3",
-      "path": "01 Sem1/Algebra liniowa/AL Ćwiczenia 3.pdf"
-    },
-    {
-      "basename": "AL Ćwiczenia 1",
-      "path": "01 Sem1/Algebra liniowa/AL Ćwiczenia 1.pdf"
-    },
-    {
-      "basename": "AL Ćwiczenia 5",
-      "path": "01 Sem1/Algebra liniowa/AL Ćwiczenia 5.pdf"
-    },
-    {
-      "basename": "AM Ćwiczenia 12",
-      "path": "01 Sem1/Analiza matematyczna/AM Ćwiczenia 12.pdf"
-    },
-    {
-      "basename": "AM Kolos 2",
-      "path": "01 Sem1/Analiza matematyczna/AM Kolos 2.pdf"
-    },
-    {
-      "basename": "AM Wykład 13",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 13.pdf"
-    },
-    {
-      "basename": "AM Kolos 1",
-      "path": "01 Sem1/Analiza matematyczna/AM Kolos 1.pdf"
-    },
-    {
-      "basename": "Bazy danych",
-      "path": "08 Settings/Links/Sem2/Bazy danych.md"
-    },
-    {
-      "basename": "AM Ćwiczenia 2",
-      "path": "01 Sem1/Analiza matematyczna/AM Ćwiczenia 2.pdf"
-    },
-    {
-      "basename": "AM Ćwiczenia 3",
-      "path": "01 Sem1/Analiza matematyczna/AM Ćwiczenia 3.pdf"
-    },
-    {
-      "basename": "AM Ćwiczenia 10",
-      "path": "01 Sem1/Analiza matematyczna/AM Ćwiczenia 10.pdf"
-    },
-    {
-      "basename": "AM Wykład 11",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 11.pdf"
-    },
-    {
-      "basename": "AM Wykład 10",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 10.pdf"
-    },
-    {
-      "basename": "AM Wykład 9",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 9.pdf"
-    },
-    {
-      "basename": "AM Wykład 8",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 8.pdf"
-    },
-    {
-      "basename": "AM Wykład 7",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 7.pdf"
-    },
-    {
-      "basename": "AM Wykład 6",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 6.pdf"
-    },
-    {
-      "basename": "AM Wykład 5",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 5.pdf"
-    },
-    {
-      "basename": "AM Wykład 4",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 4.pdf"
-    },
-    {
-      "basename": "AM Wykład 3",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 3.pdf"
-    },
-    {
-      "basename": "AM Wykład 2",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 2.pdf"
-    },
-    {
-      "basename": "MPIS Ćwiczenia 1",
-      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 1.pdf"
-    },
-    {
-      "basename": "AM Wykład 1",
-      "path": "01 Sem1/Analiza matematyczna/AM Wykład 1.pdf"
-    },
-    {
-      "basename": "Języki i metody programowania 2",
-      "path": "08 Settings/Links/Sem2/Języki i metody programowania 2.md"
-    },
-    {
-      "basename": "Technika mikroprocesorowa",
-      "path": "08 Settings/Links/Sem3/Technika mikroprocesorowa.md"
-    },
-    {
-      "basename": "Technika cyfrowa",
-      "path": "08 Settings/Links/Sem3/Technika cyfrowa.md"
-    },
-    {
-      "basename": "Programowanie obiektowe",
-      "path": "08 Settings/Links/Sem3/Programowanie obiektowe.md"
-    },
-    {
       "basename": "Podstawy reprezentacji i analizy danych",
       "path": "08 Settings/Links/Sem3/Podstawy reprezentacji i analizy danych.md"
-    },
-    {
-      "basename": "Fizyczne podstawy elektrotechniki i elektroniki",
-      "path": "08 Settings/Links/Sem3/Fizyczne podstawy elektrotechniki i elektroniki.md"
     },
     {
       "basename": "Architektura systemów komputerowych",
@@ -189,16 +17,188 @@
       "path": "08 Settings/Links/Sem3/Algorytmy i struktury danych.md"
     },
     {
-      "basename": "Teoria obwodów i sygnałów",
-      "path": "08 Settings/Links/Sem2/Teoria obwodów i sygnałów.md"
+      "basename": "Fizyczne podstawy elektrotechniki i elektroniki",
+      "path": "08 Settings/Links/Sem3/Fizyczne podstawy elektrotechniki i elektroniki.md"
     },
     {
-      "basename": "Podstawy teorii mnogości i matematyki dyskretnej",
-      "path": "08 Settings/Links/Sem2/Podstawy teorii mnogości i matematyki dyskretnej.md"
+      "basename": "FPEIE Ćwiczenia 1",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Ćwiczenia 1.pdf"
     },
     {
-      "basename": "Podstawy inżynierii oprogramowania",
-      "path": "08 Settings/Links/Sem2/Podstawy inżynierii oprogramowania.md"
+      "basename": "Technika mikroprocesorowa",
+      "path": "08 Settings/Links/Sem3/Technika mikroprocesorowa.md"
+    },
+    {
+      "basename": "TM Wykład 2",
+      "path": "03 Sem3/Technika mikroprocesorowa/TM Wykład 2.pdf"
+    },
+    {
+      "basename": "Technika cyfrowa",
+      "path": "08 Settings/Links/Sem3/Technika cyfrowa.md"
+    },
+    {
+      "basename": "Programowanie obiektowe",
+      "path": "08 Settings/Links/Sem3/Programowanie obiektowe.md"
+    },
+    {
+      "basename": "Język japoński M1",
+      "path": "08 Settings/Links/Sem3/Język japoński M1.md"
+    },
+    {
+      "basename": "Japoński M1 Skrypt",
+      "path": "03 Sem3/Język japoński M1/Japoński M1 Skrypt.pdf"
+    },
+    {
+      "basename": "TC Wykład 1",
+      "path": "03 Sem3/Technika cyfrowa/TC Wykład 1.pdf"
+    },
+    {
+      "basename": "FPEIE Wykład 1",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Wykład 1.md"
+    },
+    {
+      "basename": "TM Wykład 1",
+      "path": "03 Sem3/Technika mikroprocesorowa/TM Wykład 1.md"
+    },
+    {
+      "basename": "AISD Wykład 1",
+      "path": "03 Sem3/Algorytmy i struktury danych/AISD Wykład 1.pdf"
+    },
+    {
+      "basename": "ASK Wykład 1",
+      "path": "03 Sem3/Architektura systemów komputerowych/ASK Wykład 1.md"
+    },
+    {
+      "basename": "Wprowadzenie do algorytmów Cormen",
+      "path": "03 Sem3/Algorytmy i struktury danych/Wprowadzenie do algorytmów Cormen.pdf"
+    },
+    {
+      "basename": "FPEIE Wykład 2",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Wykład 2.md"
+    },
+    {
+      "basename": "00 Start",
+      "path": "00 Info/00 Start.md"
+    },
+    {
+      "basename": "PRIAD Wykład 1",
+      "path": "03 Sem3/Podstawy reprezentacji i analizy danych/PRIAD Wykład 1.md"
+    },
+    {
+      "basename": "PO Wykład 1",
+      "path": "03 Sem3/Programowanie obiektowe/PO Wykład 1.md"
+    },
+    {
+      "basename": "Pasted image 20251009150156",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009150156.png"
+    },
+    {
+      "basename": "Pasted image 20251009150354",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009150354.png"
+    },
+    {
+      "basename": "Pasted image 20251009150610",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009150610.png"
+    },
+    {
+      "basename": "Pasted image 20251009150829",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009150829.png"
+    },
+    {
+      "basename": "Pasted image 20251009143305",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009143305.png"
+    },
+    {
+      "basename": "Pasted image 20251009144913",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009144913.png"
+    },
+    {
+      "basename": "Pasted image 20251009145025",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009145025.png"
+    },
+    {
+      "basename": "Pasted image 20251009145111",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009145111.png"
+    },
+    {
+      "basename": "Pasted image 20251009144006",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009144006.png"
+    },
+    {
+      "basename": "Pasted image 20251009143830",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009143830.png"
+    },
+    {
+      "basename": "Pasted image 20251009145322",
+      "path": "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009145322.png"
+    },
+    {
+      "basename": "TOIS Final Holy Bible",
+      "path": "02 Sem2/Teoria obwodów i sygnałów/TOIS Dodatkowe materiały/TOIS Final Holy Bible.pdf"
+    },
+    {
+      "basename": "MPIS Zadania 2",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Zadania 2.pdf"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 11",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 11.pdf"
+    },
+    {
+      "basename": "JIMP Wykład 5",
+      "path": "02 Sem2/Języki i metody programowania 2/JIMP Wykład 5.md"
+    },
+    {
+      "basename": "JIMP Wykład 4",
+      "path": "02 Sem2/Języki i metody programowania 2/JIMP Wykład 4.md"
+    },
+    {
+      "basename": "JIMP Wykład 2",
+      "path": "02 Sem2/Języki i metody programowania 2/JIMP Wykład 2.md"
+    },
+    {
+      "basename": "JIMP Wykład 1",
+      "path": "02 Sem2/Języki i metody programowania 2/JIMP Wykład 1.md"
+    },
+    {
+      "basename": "BD Wykład 1",
+      "path": "02 Sem2/Bazy danych/BD Wykład 1.md"
+    },
+    {
+      "basename": "ZPIT Wykład 5",
+      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 5.pdf"
+    },
+    {
+      "basename": "ZPIT Wykład 3",
+      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 3.pdf"
+    },
+    {
+      "basename": "ZPIT Wykład 4",
+      "path": "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 4.pdf"
+    },
+    {
+      "basename": "02 Semestr 2",
+      "path": "00 Info/02 Semestr 2.md"
+    },
+    {
+      "basename": "01 Semestr 1",
+      "path": "00 Info/01 Semestr 1.md"
+    },
+    {
+      "basename": "MPIS Ćwiczenia 3",
+      "path": "02 Sem2/Metody probabilistyczne i statystyka/MPIS Ćwiczenia 3.pdf"
+    },
+    {
+      "basename": "AM Ćwiczenia 2",
+      "path": "01 Sem1/Analiza matematyczna/AM Ćwiczenia 2.pdf"
+    },
+    {
+      "basename": "Zarządzanie projektami IT",
+      "path": "08 Settings/Links/Sem1/Zarządzanie projektami IT.md"
+    },
+    {
+      "basename": "AL Wykład 4",
+      "path": "01 Sem1/Algebra liniowa/AL Wykład 4.pdf"
     }
   ],
   "omittedPaths": [],

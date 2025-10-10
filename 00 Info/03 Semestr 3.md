@@ -10,7 +10,8 @@ Spis treści Sem3:
 - [[Technika mikroprocesorowa]]
 
 Dodatkowo :)
-- [[Język japoński A1]]
+- [[Język japoński M1]]
+- 
 
 Powrót: [[00 Start]]
 

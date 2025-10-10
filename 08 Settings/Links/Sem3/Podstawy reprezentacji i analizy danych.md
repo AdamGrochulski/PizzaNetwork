@@ -1,5 +1,5 @@
 Wykłady:
-
+- [[PRIAD Wykład 1]]
 
 Laby:
 

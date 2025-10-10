@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignEndHorizontal",
       "LiAlarmClockMinus",
       "LiActivity",
       "LiInfo",
-      "LiSettings2",
-      "LiAlbum"
+      "LiSettings2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,5 @@
   "02 Sem2": "LiAlbum",
   "03 Settings": "LiSettings2",
   "01 Sem1": "LiActivity",
-  "03 Sem3": "LiAlarmClockMinus"
+  "03 Sem3": "LiAlignEndHorizontal"
 }

@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -158,16 +158,6 @@
               "icon": "lucide-list",
               "title": "Outline of Spis treści"
             }
-          },
-          {
-            "id": "4ed3fa4cda75c41c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       }
@@ -185,54 +175,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
       "excel:Create Excel File": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00 Info/01 Semestr 1.md",
-    "00 Info/00 Start.md",
-    "08 Settings/Links/Sem3/Język japoński A1.md",
-    "00 Info/03 Semestr 3.md",
-    "00 Info/02 Semestr 2.md",
-    "08 Settings/Links/Sem1/Algebra liniowa.md",
-    "08 Settings/Links/Sem1/Zarządzanie projektami IT.md",
-    "08 Settings/Links/Sem1/Analiza matematyczna.md",
-    "00 Info/03 Semestr 3(1).md",
-    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 12.pdf",
-    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 9.pdf",
-    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 8.pdf",
-    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 5.pdf",
-    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 4.pdf",
-    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 2.pdf",
-    "01 Sem1/Zarządzania projektami IT/ZPIT Wykład 3.pdf",
-    "01 Sem1/Algebra liniowa/AL Zaliczenie.pdf",
-    "01 Sem1/Algebra liniowa/AL Ćwiczenia 3.pdf",
-    "01 Sem1/Algebra liniowa/AL Wykład 4.pdf",
-    "08 Settings/Links/Sem2/Bazy danych.md",
-    "08 Settings/Links/Sem2/Języki i metody programowania 2.md",
-    "01 Sem1/Untitled.md",
-    "08 Settings/Links/Sem3/Technika mikroprocesorowa.md",
-    "08 Settings/Links/Sem3/Technika cyfrowa.md",
-    "08 Settings/Links/Sem3/Programowanie obiektowe.md",
     "08 Settings/Links/Sem3/Podstawy reprezentacji i analizy danych.md",
-    "08 Settings/Links/Sem3/Fizyczne podstawy elektrotechniki i elektroniki.md",
+    "00 Info/03 Semestr 3.md",
     "08 Settings/Links/Sem3/Architektura systemów komputerowych.md",
     "08 Settings/Links/Sem3/Algorytmy i struktury danych.md",
-    "08 Settings/Links/Sem2/Teoria obwodów i sygnałów.md",
-    "08 Settings/Links/Sem2/Podstawy teorii mnogości i matematyki dyskretnej.md",
-    "08 Settings/Links/Sem2/Podstawy inżynierii oprogramowania.md",
-    "08 Settings/Links/Sem2/Metody probabilistyczne i statystyka.md",
-    "08 Settings/Links/Sem2/Grafika inżynierska.md",
-    "00 Info/02 Semestr 2 1.md",
-    "08 Settings/Links/Sem3/Untitled 1.md",
-    "08 Settings/System Graphics/ISOD.png",
-    "08 Settings/File Graphics/bd_excel_1.png",
-    "08 Settings/File Graphics/bd_excel_2.png"
+    "08 Settings/Links/Sem3/Fizyczne podstawy elektrotechniki i elektroniki.md",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Ćwiczenia 1.pdf",
+    "08 Settings/Links/Sem3/Technika mikroprocesorowa.md",
+    "03 Sem3/Technika mikroprocesorowa/TM Wykład 2.pdf",
+    "08 Settings/Links/Sem3/Technika cyfrowa.md",
+    "08 Settings/Links/Sem3/Programowanie obiektowe.md",
+    "08 Settings/Links/Sem3/Język japoński M1.md",
+    "03 Sem3/Język japoński M1/Japoński M1 Skrypt.pdf",
+    "03 Sem3/Technika cyfrowa/TC Wykład 1.pdf",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Wykład 1.md",
+    "03 Sem3/Technika cyfrowa/TC Wykład 1.md",
+    "03 Sem3/Technika mikroprocesorowa/TM Wykład 1.md",
+    "03 Sem3/Algorytmy i struktury danych/AISD Wykład 1.pdf",
+    "03 Sem3/Język japoński M1",
+    "03 Sem3/Architektura systemów komputerowych/ASK Wykład 1.md",
+    "03 Sem3/Algorytmy i struktury danych/Wprowadzenie do algorytmów Cormen.pdf",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Wykład 2.md",
+    "00 Info/00 Start.md",
+    "03 Sem3/Podstawy reprezentacji i analizy danych/PRIAD Wykład 1.md",
+    "03 Sem3/Programowanie obiektowe/PO Wykład 1.md",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009150156.png",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009151158.png",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009151118.png",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009151044.png",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009151001.png",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009150354.png",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009150610.png",
+    "Pasted image 20251009150924.png",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu/Pasted image 20251009150829.png",
+    "Pasted image 20251009150459.png",
+    "03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu",
+    "02 Sem2/Teoria obwodów i sygnałów/TOIS Dodatkowe materiały/TOIS Final Holy Bible.pdf",
+    "02 Sem2/Metody probabilistyczne i statystyka/MPIS Zadania 2.pdf",
+    "02 Sem2/Języki i metody programowania 2/JIMP Wykład 5.md",
+    "02 Sem2/Języki i metody programowania 2/JIMP Wykład 4.md",
+    "02 Sem2/Języki i metody programowania 2/JIMP Wykład 2.md",
+    "02 Sem2/Języki i metody programowania 2/JIMP Wykład 1.md",
+    "02 Sem2/Bazy danych/BD Wykład 1.md",
+    "00 Info/02 Semestr 2.md",
+    "00 Info/01 Semestr 1.md",
+    "03 Sem3/Technika cyfrowa/Drawing 2025-10-08 11.23.52.excalidraw.md"
   ]
 }
