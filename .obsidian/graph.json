@@ -1,22 +1,72 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:00 Start",
+      "color": {
+        "a": 1,
+        "rgb": 12083711
+      }
+    },
+    {
+      "query": "path:00",
+      "color": {
+        "a": 1,
+        "rgb": 6422424
+      }
+    },
+    {
+      "query": "path:\"08 Settings/Links/Sem1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5767147
+      }
+    },
+    {
+      "query": "path:\"08 Settings/Links/Sem2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6735103
+      }
+    },
+    {
+      "query": "path: \"08 Settings/Links/Sem3\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6057456
+      }
+    },
+    {
+      "query": "file:wykład",
+      "color": {
+        "a": 1,
+        "rgb": 16114618
+      }
+    },
+    {
+      "query": "path:\"03 Sem3/Fizyczne podstawy elektrotechniki i elektroniki/FPEIE Zrzuty Ekranu\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16730025
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.04064449064449,
-  "lineSizeMultiplier": 5,
+  "showArrow": false,
+  "textFadeMultiplier": 1.5,
+  "nodeSizeMultiplier": 1.22829996744792,
+  "lineSizeMultiplier": 1.16170654296875,
   "collapse-forces": true,
-  "centerStrength": 0.903326403326403,
-  "repelStrength": 17.983367983368,
-  "linkStrength": 1,
-  "linkDistance": 50,
-  "scale": 0.7108828715308968,
+  "centerStrength": 0.716837565104167,
+  "repelStrength": 12.4031575520833,
+  "linkStrength": 0.9107666015625,
+  "linkDistance": 192,
+  "scale": 0.3372180294010307,
   "close": true
 }

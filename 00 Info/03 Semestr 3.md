@@ -11,7 +11,6 @@ Spis treści Sem3:
 
 Dodatkowo :)
 - [[Język japoński M1]]
-- 
 
 Powrót: [[00 Start]]
 

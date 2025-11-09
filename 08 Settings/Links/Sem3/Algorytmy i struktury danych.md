@@ -1,7 +1,7 @@
 Wykłady:
 - [[AISD Wykład 1.pdf]]
-
-Laby:
+- [[AISD Wykład 2.pdf]]
+- [[AISD Wykład 3]]
 
 Dodatkowe materiały:
 - [[Wprowadzenie do algorytmów Cormen.pdf]]

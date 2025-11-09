@@ -1,4 +1,4 @@
-### Rys historyczny :
+### **Rys historyczny** :
 1. Początki komputerów
 2. Koncepcje budowy komputera
 3. Budowa systemu komputerowego

@@ -5,4 +5,4 @@ Spis treści:
 - [[02 Semestr 2]]
 - [[03 Semestr 3]]
 
-![[ISOD.png]]
+![[ISOD.png]][[README]]
