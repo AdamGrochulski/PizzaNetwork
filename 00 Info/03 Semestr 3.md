@@ -6,7 +6,7 @@ Spis treści Sem3:
 - [[Fizyczne podstawy elektrotechniki i elektroniki]]
 - [[Podstawy reprezentacji i analizy danych]]
 - [[Programowanie obiektowe]]
-- [[Technika cyfrowa]]
+- [[08 Settings/Links/Sem3/Technika cyfrowa]]
 - [[Technika mikroprocesorowa]]
 
 Dodatkowo :)

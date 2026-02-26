@@ -4,5 +4,6 @@ Spis treści:
 - [[01 Semestr 1]]
 - [[02 Semestr 2]]
 - [[03 Semestr 3]]
+- [[04 Semestr 4]]
 
 ![[ISOD.png]][[README]]
